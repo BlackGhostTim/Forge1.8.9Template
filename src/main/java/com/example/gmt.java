@@ -10,8 +10,7 @@ import net.minecraft.util.ChatComponentText;
 
 public class gmt extends CommandBase {
     public static void gmt() {
-    }
-
+    }   //
     @Override
     public String getCommandName() {
         return "/gmt";
